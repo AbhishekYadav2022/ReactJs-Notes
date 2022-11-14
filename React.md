@@ -160,6 +160,7 @@ render() {
 
  <h2 style="color:green;"> Functional Components </h2>
 FunctionClick.js
+
 ```js
 function clickHandler() {
 	console.log('Button Clicked')
@@ -173,6 +174,7 @@ return (
 
  <h2 style="color:green;"> Class Components </h2>
 ClassClick.js
+
 ```js
 clickHandler() {
 	console.log("Clicked the button")
