@@ -56,8 +56,10 @@ Output:
 
 # State In React
  <h2 style="color:green;"> Class Components </h2>
+ 
 Message.js
-```js
+
+```javascript
 class Message extends Component {
     constructor() {
         super()
