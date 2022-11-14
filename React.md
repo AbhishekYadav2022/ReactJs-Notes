@@ -1,6 +1,8 @@
 # Props In React
  <h2 style="color:green;"> Functional Components </h2>
- 
+
+![Props In React](assets/props.jpg)
+
 1. Pass props as properties in functional components like this:
 
 ```javascript
@@ -56,6 +58,7 @@ Output:
 
 # State In React
  <h2 style="color:green;"> Class Components </h2>
+![Props In React](assets/state.jpg)
  
 Message.js
 
@@ -93,6 +96,8 @@ App.js
 Output:
 > Welcome Visitor
 > **Subscribe**
+
+![Props In React](assets/props_vs_state.png)
 
 # Desctucturing Props And State
 
